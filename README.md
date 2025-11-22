@@ -10,6 +10,8 @@
 
 ## 使用建议
 
-本笔记使用Obsidian记录，包含双向链接，建议搭配Obsidian使用喵。
+本笔记使用Obsidian记录，包含双向链接和LaTeX格式的书写，建议搭配Obsidian使用喵。
+
+如果不使用markdown阅读器，可以直接下载PDF文件查看。
 
 笔记中出现疏漏欢迎提交issue📘
