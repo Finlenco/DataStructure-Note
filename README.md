@@ -4,9 +4,9 @@
 
 ## 目录结构
 
-- `Markdown Note/`：按章节撰写的 Markdown 笔记
-- `PDF File/`：对应章节的 PDF 导出版本
-- `图片/`：图资料
+* `Markdown Note/`：按章节撰写的 Markdown 笔记
+* `PDF File/`：对应章节的 PDF 导出版本
+* `图片/`：图资料
 
 ## 使用建议
 
